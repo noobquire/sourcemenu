@@ -1,5 +1,5 @@
 # sourcemenu
-Compitable with any Source engine game including HL2, TF2 and CS:GO
+A simple text menu user interface compitable with any Source engine game including HL2, TF2 and CS:GO
 # Installation
 1. Download and extract menu files
 2. Go to Steam/steamapps/common/[game name]/[game root folder]/cfg<br>
